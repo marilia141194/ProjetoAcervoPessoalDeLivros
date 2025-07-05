@@ -72,5 +72,5 @@ Davi Esteves Arcanjo de Oliveira<br>
 Flavia Benegas https://github.com/Flaviabenegas <br>
 João Vitor Guimarães de Moraes da Silva<br>
 Marilia dos Santos Silva https://github.com/marilia141194 <br>
-Milena Acuio de Arruda<br>
+Milena Acuio de Arruda https://github.com/MilenaAcuio <br>
 Millena Souza de Aguiar.
