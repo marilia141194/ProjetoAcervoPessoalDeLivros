@@ -66,9 +66,4 @@ Projeto desenvolvido e testado no compilador GCC (MinGW 64-bit) em ambiente Wind
 
 Este projeto foi desenvolvido em equipe pelos seguintes alunos:
 
-Davi Esteves Arcanjo de Oliveira
-Flavia Benegas
-João Vitor Guimarães de Moraes da Silva
-Marilia dos Santos Silva
-Milena Acuio de Arruda
-Millena Souza de Aguiar
+Davi Esteves Arcanjo de Oliveira, Flavia Benegas, João Vitor Guimarães de Moraes da Silva, Marilia dos Santos Silva, Milena Acuio de Arruda e Millena Souza de Aguiar.
