@@ -1,4 +1,6 @@
-Projeto Final: Sistema de Acervo Pessoal de Livros
+<b>Projeto Final: Sistema de Acervo Pessoal de Livros <br></b>
+![LibraryReadingGIF](https://github.com/user-attachments/assets/f21629c7-721f-4dd4-bea0-c8eb7dca8f4c)
+
 
 1. Descrição do Sistema:
 
@@ -62,8 +64,13 @@ Este README.md serve como guia de instruções do projeto, conforme solicitado.
 CLion 2024.3.2
 Projeto desenvolvido e testado no compilador GCC (MinGW 64-bit) em ambiente Windows.
 
-7. Autores:
+7. Autores:👨‍🦰👨‍🦰👧👧👧👧
 
 Este projeto foi desenvolvido em equipe pelos seguintes alunos:
 
-Davi Esteves Arcanjo de Oliveira, Flavia Benegas, João Vitor Guimarães de Moraes da Silva, Marilia dos Santos Silva, Milena Acuio de Arruda e Millena Souza de Aguiar.
+Davi Esteves Arcanjo de Oliveira<br>
+Flavia Benegas https://github.com/Flaviabenegas <br>
+João Vitor Guimarães de Moraes da Silva<br>
+Marilia dos Santos Silva https://github.com/marilia141194 <br>
+Milena Acuio de Arruda<br>
+Millena Souza de Aguiar.
